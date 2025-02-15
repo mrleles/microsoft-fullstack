@@ -1,0 +1,15 @@
+/workspaces/microsoft-fullstack/Exercise3/bin/Debug/net8.0/Exercise3
+/workspaces/microsoft-fullstack/Exercise3/bin/Debug/net8.0/Exercise3.deps.json
+/workspaces/microsoft-fullstack/Exercise3/bin/Debug/net8.0/Exercise3.runtimeconfig.json
+/workspaces/microsoft-fullstack/Exercise3/bin/Debug/net8.0/Exercise3.dll
+/workspaces/microsoft-fullstack/Exercise3/bin/Debug/net8.0/Exercise3.pdb
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfoInputs.cache
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfo.cs
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.csproj.CoreCompileInputs.cache
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.sourcelink.json
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.dll
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/refint/Exercise3.dll
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.pdb
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/Exercise3.genruntimeconfig.cache
+/workspaces/microsoft-fullstack/Exercise3/obj/Debug/net8.0/ref/Exercise3.dll
