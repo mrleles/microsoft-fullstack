@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mCfI+yjTjk4=",
+  "dgSpecHash": "4pSrXGCqH00=",
   "success": true,
-  "projectFilePath": "/workspaces/microsoft-fullstack/Exercise3/Exercise3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj",
+  "expectedPackageFiles": [
+    "/home/leles/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/leles/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/leles/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

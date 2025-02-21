@@ -1,0 +1,15 @@
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.AssemblyInfoInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.AssemblyInfo.cs
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.csproj.CoreCompileInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.sourcelink.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/bin/Debug/net9.0/ClassesAndObjectsApp
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/bin/Debug/net9.0/ClassesAndObjectsApp.deps.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/bin/Debug/net9.0/ClassesAndObjectsApp.runtimeconfig.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/bin/Debug/net9.0/ClassesAndObjectsApp.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/bin/Debug/net9.0/ClassesAndObjectsApp.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/refint/ClassesAndObjectsApp.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ClassesAndObjectsApp.genruntimeconfig.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/Debug/net9.0/ref/ClassesAndObjectsApp.dll

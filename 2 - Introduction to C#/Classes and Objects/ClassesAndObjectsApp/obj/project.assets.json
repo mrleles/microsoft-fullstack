@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "/home/leles/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj",
-      "projectName": "Exercise3",
-      "projectPath": "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj",
+      "projectUniqueName": "/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/ClassesAndObjectsApp.csproj",
+      "projectName": "ClassesAndObjectsApp",
+      "projectPath": "/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/ClassesAndObjectsApp.csproj",
       "packagesPath": "/home/leles/.nuget/packages/",
-      "outputPath": "/home/leles/Documentos/microsoft-fullstack/Exercise3/obj/",
+      "outputPath": "/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Classes and Objects/ClassesAndObjectsApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/leles/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -63,15 +63,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
+            "version": "[9.0.2, 9.0.2]"
           }
         ],
         "frameworkReferences": {
