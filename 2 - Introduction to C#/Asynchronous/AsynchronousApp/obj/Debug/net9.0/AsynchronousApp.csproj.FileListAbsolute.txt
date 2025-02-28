@@ -1,0 +1,15 @@
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/bin/Debug/net9.0/AsynchronousApp
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/bin/Debug/net9.0/AsynchronousApp.deps.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/bin/Debug/net9.0/AsynchronousApp.runtimeconfig.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/bin/Debug/net9.0/AsynchronousApp.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/bin/Debug/net9.0/AsynchronousApp.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.AssemblyInfoInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.AssemblyInfo.cs
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.csproj.CoreCompileInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.sourcelink.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/refint/AsynchronousApp.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/AsynchronousApp.genruntimeconfig.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/AsynchronousApp/obj/Debug/net9.0/ref/AsynchronousApp.dll

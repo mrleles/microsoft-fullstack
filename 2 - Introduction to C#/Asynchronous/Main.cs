@@ -4,6 +4,7 @@ public async Task getDataAsync()
     try
     {
         var data = await GetDataFromApi();
+        throw new InvalidOperationException("Simulated download error.")
     }
     catch (Exception ex)
     {
