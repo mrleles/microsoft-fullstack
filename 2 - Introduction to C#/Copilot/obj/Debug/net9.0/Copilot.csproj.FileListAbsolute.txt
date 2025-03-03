@@ -1,0 +1,15 @@
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/bin/Debug/net9.0/Copilot
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/bin/Debug/net9.0/Copilot.deps.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/bin/Debug/net9.0/Copilot.runtimeconfig.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/bin/Debug/net9.0/Copilot.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/bin/Debug/net9.0/Copilot.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.GeneratedMSBuildEditorConfig.editorconfig
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.AssemblyInfoInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.AssemblyInfo.cs
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.csproj.CoreCompileInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.sourcelink.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/refint/Copilot.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/Copilot.genruntimeconfig.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/obj/Debug/net9.0/ref/Copilot.dll
