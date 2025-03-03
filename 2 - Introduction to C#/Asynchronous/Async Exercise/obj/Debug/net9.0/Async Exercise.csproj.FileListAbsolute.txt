@@ -1,0 +1,15 @@
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.AssemblyInfoInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.AssemblyInfo.cs
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.csproj.CoreCompileInputs.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.sourcelink.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/bin/Debug/net9.0/Async Exercise
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/bin/Debug/net9.0/Async Exercise.deps.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/bin/Debug/net9.0/Async Exercise.runtimeconfig.json
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/bin/Debug/net9.0/Async Exercise.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/bin/Debug/net9.0/Async Exercise.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/refint/Async Exercise.dll
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.pdb
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/Async Exercise.genruntimeconfig.cache
+/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Asynchronous/Async Exercise/obj/Debug/net9.0/ref/Async Exercise.dll

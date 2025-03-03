@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AsynchronousApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Async Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e0707251dff7f8396d28123dd6a8308aa485179")]
-[assembly: System.Reflection.AssemblyProductAttribute("AsynchronousApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AsynchronousApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("Async Exercise")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Async Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -26,3 +26,10 @@ public async Task getData()
         Console.WriteLine(ex.Message);
     }
 }
+
+----------------------------------------------------
+// public static void Main(string[] args)
+// {
+//     // Calling the asynchronous method
+//     Task.Run(async () => await PerformLongOperationAsync() ).Wait();
+// }
