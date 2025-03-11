@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj": {}
+    "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj": {}
   },
   "projects": {
-    "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj": {
+    "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj",
+        "projectUniqueName": "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj",
         "projectName": "Exercise3",
-        "projectPath": "/home/leles/Documentos/microsoft-fullstack/Exercise3/Exercise3.csproj",
+        "projectPath": "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj",
         "packagesPath": "/home/leles/.nuget/packages/",
-        "outputPath": "/home/leles/Documentos/microsoft-fullstack/Exercise3/obj/",
+        "outputPath": "/home/leles/microsoft-fullstack/Exercise3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/leles/.nuget/NuGet/NuGet.Config"
