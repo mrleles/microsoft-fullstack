@@ -1,98 +1,79 @@
 ﻿using System;
+using System.Collections.Generic;
 
-class LibraryManagementSystem
+class LibraryManager
 {
-    static string[] books = new string[5];
-    static int bookCount = 0;
+    // List to store the books
+    static List<string> books = new List<string>();
 
-    static void Main(string[] args)
+    static void Main()
     {
-        int choice;
-        do
+        // Infinite loop to keep the program running until the user decides to exit
+        while (true)
         {
-            Console.WriteLine("Library Management System");
-            Console.WriteLine("1. Add a new book");
-            Console.WriteLine("2. Remove a book");
-            Console.WriteLine("3. Display available books");
-            Console.WriteLine("4. Exit");
-            Console.Write("Enter your choice: ");
-            choice = int.Parse(Console.ReadLine());
+            Console.WriteLine("Would you like to add or remove a book? (add/remove/exit)");
+            string action = Console.ReadLine().ToLower(); // Convert input to lowercase
 
-            switch (choice)
+            if (action == "add")
             {
-                case 1:
-                    AddBook();
-                    break;
-                case 2:
-                    RemoveBook();
-                    break;
-                case 3:
-                    DisplayBooks();
-                    break;
-                case 4:
-                    Console.WriteLine("Exiting...");
-                    break;
-                default:
-                    Console.WriteLine("Invalid choice. Please try again.");
-                    break;
+                AddBook(); // Call AddBook method if user wants to add a book
             }
-        } while (choice != 4);
+            else if (action == "remove")
+            {
+                RemoveBook(); // Call RemoveBook method if user wants to remove a book
+            }
+            else if (action == "exit")
+            {
+                break; // Exit the loop if user wants to exit
+            }
+            else
+            {
+                Console.WriteLine("Invalid action. Please type 'add', 'remove', or 'exit'.");
+            }
+
+            DisplayBooks(); // Display the list of books after each action
+        }
     }
 
+    // Method to add a book to the list
     static void AddBook()
     {
-        if (bookCount < 5)
+        Console.WriteLine("Enter the title of the book to add:");
+        string newBook = Console.ReadLine();
+
+        if (books.Count < 5)
         {
-            Console.Write("Enter the title of the book: ");
-            string title = Console.ReadLine();
-            books[bookCount] = title;
-            bookCount++;
-            Console.WriteLine("Book added successfully.");
+            books.Add(newBook); // Add the book if the list has less than 5 books
         }
         else
         {
-            Console.WriteLine("Library is full. Cannot add more books.");
+            Console.WriteLine("The library is full. No more books can be added.");
         }
     }
 
+    // Method to remove a book from the list
     static void RemoveBook()
     {
-        Console.Write("Enter the title of the book to remove: ");
-        string title = Console.ReadLine();
-        bool found = false;
+        Console.WriteLine("Enter the title of the book to remove:");
+        string removeBook = Console.ReadLine();
 
-        for (int i = 0; i < bookCount; i++)
+        if (books.Remove(removeBook))
         {
-            if (books[i].Equals(title, StringComparison.OrdinalIgnoreCase))
-            {
-                books[i] = books[bookCount - 1];
-                books[bookCount - 1] = null;
-                bookCount--;
-                found = true;
-                Console.WriteLine("Book removed successfully.");
-                break;
-            }
-        }
-
-        if (!found)
-        {
-            Console.WriteLine("Book not found.");
-        }
-    }
-
-    static void DisplayBooks()
-    {
-        if (bookCount == 0)
-        {
-            Console.WriteLine("No books available.");
+            Console.WriteLine("Book removed."); // Confirm removal if the book was found and removed
         }
         else
         {
-            Console.WriteLine("Available books:");
-            for (int i = 0; i < bookCount; i++)
-            {
-                Console.WriteLine($"{i + 1}. {books[i]}");
-            }
+            Console.WriteLine("Book not found."); // Inform the user if the book was not found
+        }
+    }
+
+    // Method to display the list of books
+    static void DisplayBooks()
+    {
+        Console.WriteLine("Available books:");
+        foreach (var book in books)
+        {
+            Console.WriteLine(book); // Print each book in the list
         }
     }
 }

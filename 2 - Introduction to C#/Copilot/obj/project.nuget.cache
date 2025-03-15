@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pHPaU4yxU/Y=",
+  "dgSpecHash": "HcUjSwJZFj4=",
   "success": true,
-  "projectFilePath": "/home/leles/Documentos/microsoft-fullstack/2 - Introduction to C#/Copilot/Copilot.csproj",
+  "projectFilePath": "/home/leles/microsoft-fullstack/2 - Introduction to C#/Copilot/Copilot.csproj",
   "expectedPackageFiles": [
-    "/home/leles/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+    "/home/leles/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
   ],
   "logs": []
 }
