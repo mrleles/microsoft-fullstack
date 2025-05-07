@@ -16,7 +16,7 @@ class Subject {
     }
 }
 
-Class Observer {
+class Observer {
     constructor(name) {
         this.name = name;
     }
