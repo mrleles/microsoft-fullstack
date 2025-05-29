@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj": {}
+    "/workspaces/microsoft-fullstack/Exercise3/Exercise3.csproj": {}
   },
   "projects": {
-    "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj": {
+    "/workspaces/microsoft-fullstack/Exercise3/Exercise3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj",
+        "projectUniqueName": "/workspaces/microsoft-fullstack/Exercise3/Exercise3.csproj",
         "projectName": "Exercise3",
-        "projectPath": "/home/leles/microsoft-fullstack/Exercise3/Exercise3.csproj",
-        "packagesPath": "/home/leles/.nuget/packages/",
-        "outputPath": "/home/leles/microsoft-fullstack/Exercise3/obj/",
+        "projectPath": "/workspaces/microsoft-fullstack/Exercise3/Exercise3.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/microsoft-fullstack/Exercise3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/leles/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -54,26 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.14, 8.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
