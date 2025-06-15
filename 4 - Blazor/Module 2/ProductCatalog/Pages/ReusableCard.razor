@@ -1,0 +1,34 @@
+@inject DataService DataService
+
+<div>
+    <button @onclick="ToggleRenderCondition">Toggle Product List</button>
+
+    @if (ShouldRenderCondition)
+    {
+        <ul>
+            @foreach (var product in Products)
+            {
+                <li>@product</li>
+            }
+        </ul>
+    }
+</div>
+
+@code {
+    private List<string> Products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Products = await DataService.GetProductsAsync();
+    }
+}
+
+// -------------------------------------------------------
+@code {
+    [CascadingParameter]
+    public string ThemeColor { get; set;}
+}
+
+<div style="border: 1px solid black; color:@ThemeColor;">
+    <p>Reusable Component Content</p>
+</div>

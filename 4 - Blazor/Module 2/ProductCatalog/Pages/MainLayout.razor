@@ -1,0 +1,18 @@
+<CascadingValue Value="ThemeColor">
+    @Body
+</CascadingValue>
+
+<select @onchange="ChangeTheme">
+    <option value="blue">Blue</option>
+    <option value="green">Green</option>
+    <option value="red">Red</option>
+</select>
+
+@code {
+    private string ThemeColor = "blue";
+
+    private void ChangeTheme(ChangeEventArgs e)
+    {
+        ThemeColor = e.Value.ToString();
+    }
+}

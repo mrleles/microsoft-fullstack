@@ -1,0 +1,12 @@
+<ChildComponent @ref="childRef" />
+
+<button @onclick="UpdateChild">UpdateChild Child</button>
+
+@code {
+    private ChildComponent childRef;
+
+    private void UpdateChild()
+    {
+        childRef.UpdateState();
+    }
+}
