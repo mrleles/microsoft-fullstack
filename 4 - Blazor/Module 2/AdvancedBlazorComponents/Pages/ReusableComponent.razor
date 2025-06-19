@@ -1,0 +1,25 @@
+@inject DataService DataService
+@using AdvancedBlazorComponents.Pages
+@using Microsoft.AspNetCore.Components;
+
+<ul>
+    @foreach (var item in DataService.GetData())
+    {
+        <li>@item</li>
+    }
+</ul>
+<p style="color:@themeColor;">This is a styled using the ThemeColor</p>
+<ChildComponent @ref="childComponent" OnNotifyParent="HandleNotification" />
+
+@code {
+    [CascadingParameter]
+    public string themeColor { get; set; }
+
+    private ChildComponent childComponent;
+
+    private void HandleNotification()
+    {
+        // Logic to handle notifications from the child component
+ 	 Console.WriteLine("Notification received from child component");
+    }
+}
