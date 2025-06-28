@@ -1,6 +1,6 @@
 Example of a Child Component
 ```
-<button @onclick="OnClick">Click Me </ button >
+<button @onclick="OnClick">Click Me </button>
 <button @onclick="() => OnValueSubmit.InvokeAsync(value)">Submit Value</button>
 
 @code {
